@@ -16,7 +16,7 @@ Term: Fall 2023
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Jingxuan Wang and Feiyu Guo work on the paper 5 prejudice remover regularizer
+Jingxuan Wang and Feiyu Guo work on the paper 5 prejudice remover regularizer.
 Puqi Song, Haixin Shu, and Yoojin Lee work on the paper 4 Disparate Treatment & Disparate Impact
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
